@@ -170,3 +170,4 @@ D:\FPT\CN6\MusicWebApp\MusicWebApp\obj\Debug\net8.0\refint\MusicWebApp.dll
 D:\FPT\CN6\MusicWebApp\MusicWebApp\obj\Debug\net8.0\MusicWebApp.pdb
 D:\FPT\CN6\MusicWebApp\MusicWebApp\obj\Debug\net8.0\MusicWebApp.genruntimeconfig.cache
 D:\FPT\CN6\MusicWebApp\MusicWebApp\obj\Debug\net8.0\ref\MusicWebApp.dll
+D:\FPT\CN6\MusicWebApp\MusicWebApp\obj\Debug\net8.0\MusicWebApp.sourcelink.json
