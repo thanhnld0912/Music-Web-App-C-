@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JrJZtf8Xs/oZfx/+8yfJTkJoAodZBaWOFfB0/CfDvms=",
+  "Hash": "maARu8IdTCDDF8W1Pk8H0HdsJM/9wPwGFmHjtGvyIDo=",
   "Source": "MusicWebApp",
   "BasePath": "_content/MusicWebApp",
   "Mode": "Default",
@@ -59,6 +59,27 @@
       "OriginalItemSpec": "D:\\FPT\\CN6\\MusicWebApp\\MusicWebApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MusicWebApp.bundle.scp.css"
     },
     {
+      "Identity": "D:\\FPT\\CN6\\MusicWebApp\\MusicWebApp\\wwwroot\\css\\login.css",
+      "SourceId": "MusicWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\FPT\\CN6\\MusicWebApp\\MusicWebApp\\wwwroot\\",
+      "BasePath": "_content/MusicWebApp",
+      "RelativePath": "css/login#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wcm0e30yfh",
+      "Integrity": "MKv+f2x/Bw1rfFc7Y/fN4DHR3U+9vwY3U0MM4Wbm1S8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\login.css"
+    },
+    {
       "Identity": "D:\\FPT\\CN6\\MusicWebApp\\MusicWebApp\\wwwroot\\css\\site.css",
       "SourceId": "MusicWebApp",
       "SourceType": "Discovered",
@@ -73,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7ls75ohgyo",
-      "Integrity": "hd6UMP/iWqXGUZnnhFqlZ/jas3dbtDid4dhNrOf9B4g=",
+      "Fingerprint": "vbdehnzxw6",
+      "Integrity": "Bej/ZKueNlK8jWlsIgsyxTr+DBuF38XI044N2jIV7ms=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1321,8 +1342,8 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/site.7ls75ohgyo.css",
-      "AssetFile": "D:\\FPT\\CN6\\MusicWebApp\\MusicWebApp\\wwwroot\\css\\site.css",
+      "Route": "css/login.css",
+      "AssetFile": "D:\\FPT\\CN6\\MusicWebApp\\MusicWebApp\\wwwroot\\css\\login.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1331,7 +1352,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7611"
+          "Value": "4643"
         },
         {
           "Name": "Content-Type",
@@ -1339,11 +1360,48 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hd6UMP/iWqXGUZnnhFqlZ/jas3dbtDid4dhNrOf9B4g=\""
+          "Value": "\"MKv+f2x/Bw1rfFc7Y/fN4DHR3U+9vwY3U0MM4Wbm1S8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 14:53:19 GMT"
+          "Value": "Thu, 27 Feb 2025 06:05:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MKv+f2x/Bw1rfFc7Y/fN4DHR3U+9vwY3U0MM4Wbm1S8="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.wcm0e30yfh.css",
+      "AssetFile": "D:\\FPT\\CN6\\MusicWebApp\\MusicWebApp\\wwwroot\\css\\login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4643"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MKv+f2x/Bw1rfFc7Y/fN4DHR3U+9vwY3U0MM4Wbm1S8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 06:05:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1353,15 +1411,15 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7ls75ohgyo"
+          "Value": "wcm0e30yfh"
         },
         {
           "Name": "label",
-          "Value": "css/site.css"
+          "Value": "css/login.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hd6UMP/iWqXGUZnnhFqlZ/jas3dbtDid4dhNrOf9B4g="
+          "Value": "sha256-MKv+f2x/Bw1rfFc7Y/fN4DHR3U+9vwY3U0MM4Wbm1S8="
         }
       ]
     },
@@ -1376,7 +1434,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "7611"
+          "Value": "8535"
         },
         {
           "Name": "Content-Type",
@@ -1384,11 +1442,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hd6UMP/iWqXGUZnnhFqlZ/jas3dbtDid4dhNrOf9B4g=\""
+          "Value": "\"Bej/ZKueNlK8jWlsIgsyxTr+DBuF38XI044N2jIV7ms=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 25 Feb 2025 14:53:19 GMT"
+          "Value": "Thu, 27 Feb 2025 08:07:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1398,7 +1456,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hd6UMP/iWqXGUZnnhFqlZ/jas3dbtDid4dhNrOf9B4g="
+          "Value": "sha256-Bej/ZKueNlK8jWlsIgsyxTr+DBuF38XI044N2jIV7ms="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.vbdehnzxw6.css",
+      "AssetFile": "D:\\FPT\\CN6\\MusicWebApp\\MusicWebApp\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8535"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bej/ZKueNlK8jWlsIgsyxTr+DBuF38XI044N2jIV7ms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 08:07:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vbdehnzxw6"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bej/ZKueNlK8jWlsIgsyxTr+DBuF38XI044N2jIV7ms="
         }
       ]
     },

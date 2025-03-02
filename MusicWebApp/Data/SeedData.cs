@@ -28,18 +28,18 @@ namespace MusicWebApp.Data
                     },
                     new User
                     {
-                        Username = "uploader1",
-                        Email = "uploader1@musicweb.com",
-                        Password = "uploader123",
-                        Role = "Uploader",
+                        Username = "user1",
+                        Email = "user1@musicweb.com",
+                        Password = "user1123",
+                        Role = "User",
                         CreatedAt = DateTime.Now
                     },
                     new User
                     {
-                        Username = "listener1",
-                        Email = "listener1@musicweb.com",
-                        Password = "listener123",
-                        Role = "Listener",
+                        Username = "user2",
+                        Email = "user2@musicweb.com",
+                        Password = "user2",
+                        Role = "User",
                         CreatedAt = DateTime.Now
                     }
                 );

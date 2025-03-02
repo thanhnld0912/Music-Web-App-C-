@@ -1,0 +1,6 @@
+﻿<h1>Profile</h1>
+<form method="post" enctype="multipart/form-data" asp-action="UpdateProfile" asp-controller="Account">
+    <img src="@Context.Session.GetString("AvatarUrl")" id="profileAvatar" width="100" height="100">
+    <input type="file" name="avatarFile">
+    <button type="submit">Update Avatar</button>
+</form>

@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\MusicWebApp.kkg79oqy0u.bundle.scp.css"
     },
     {
+      "Id": "D:\\FPT\\CN6\\MusicWebApp\\MusicWebApp\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
       "Id": "D:\\FPT\\CN6\\MusicWebApp\\MusicWebApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
