@@ -38,10 +38,32 @@
                     <li><a href="#">Support</a></li>
                     <li><a href="#">Download</a></li>
                     <li class="divider">|</li>
-                    <li><a href="@Url.Action("Register", "Account")">Sign Up</a></li>
+
+                    @if (Context.Session.GetString("UserId") != null)
+                    {
+                        <li class="user-menu">
+                            <div class="user-icon">
+                                <img src="~/images/default-avatar.png" id="userAvatar" alt="User Avatar">
+                                <div class="dropdown-menu">
+                                    <a href="@Url.Action("Profile", "Account")">Profile</a>
+                                    @if (Context.Session.GetString("UserRole") == "Admin")
+                                    {
+                                        <a href="@Url.Action("Manage", "Admin")">Manage</a>
+                                    }
+                                    <a href="@Url.Action("Logout", "Account")">Logout</a>
+                                </div>
+                            </div>
+                        </li>
+                        <li><i class="fa fa-bell notification-icon"></i></li>
+                    }
+                    else
+                    {
+                        <li><a href="@Url.Action("Register", "Account")">Sign Up</a></li>
+                        <a href="@Url.Action("Login", "Account")" class="btn-login">Log In</a>
+                    }
                 </ul>
-                <a href="@Url.Action("Login", "Account")" class="btn-login">Log In</a>
             </div>
+
 
         </div>
 
