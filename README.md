@@ -1,6 +1,8 @@
 Melofy - Dự án web âm nhạc
+
 Giới Thiệu Dự Án
-Mylòy là một website âm nhạc được phát triển bằng C# ASP.NET Core MVC, kết hợp với SQL Server làm hệ quản trị cơ sở dữ liệu. Dự án này hướng đến những người dùng yêu thích âm nhạc, cung cấp một nền tảng để khám phá, tìm kiếm và thưởng thức âm nhạc. Người dùng có thể tạo tài khoản, đăng nhập, và truy cập các playlist yêu thích, cũng như tìm kiếm các bài hát, album, và nghệ sĩ.
+
+Melofy là một website âm nhạc được phát triển bằng C# ASP.NET Core MVC, kết hợp với SQL Server làm hệ quản trị cơ sở dữ liệu. Dự án này hướng đến những người dùng yêu thích âm nhạc, cung cấp một nền tảng để khám phá, tìm kiếm và thưởng thức âm nhạc. Người dùng có thể tạo tài khoản, đăng nhập, và truy cập các playlist yêu thích, cũng như tìm kiếm các bài hát, album, và nghệ sĩ.
 
 Dự án là sản phẩm của nhóm 5 thành viên với mục tiêu xây dựng một website hiện đại và dễ sử dụng, đáp ứng nhu cầu của người dùng đam mê âm nhạc.
 
