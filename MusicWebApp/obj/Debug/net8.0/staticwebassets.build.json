@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XqF0Cp3L/pXd/Si0258QDljRTebAxvwZzBY4hrgEwvU=",
+  "Hash": "knKXL5n/5skyYOfR7qEQ6KJJmXYgdZtg8NZfZRaIMv0=",
   "Source": "MusicWebApp",
   "BasePath": "_content/MusicWebApp",
   "Mode": "Default",
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "n0bnoargjb",
-      "Integrity": "h8ebDIov1SNDwrwiTLvNo+sAFSmJYsqos2nSUcNNWe4=",
+      "Fingerprint": "t1vhfmjnny",
+      "Integrity": "cS6MQPbxlXEYJTyYVfsg9Vbm3Ufl2EP8oAlgD3EFoFc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\newfeed.css"
@@ -115,8 +115,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "rdlqkdweun",
-      "Integrity": "Qanutl1GKRjx8TpIy/lePs/4GlQKo2nwVkoy0ibNya0=",
+      "Fingerprint": "mhy21gm3t2",
+      "Integrity": "GhwhqDPGlTxxyccUdk4L/jY7lHo9Rbe1ov4eIwXIzmE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\profileuser.css"
@@ -1497,7 +1497,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9555"
+          "Value": "9551"
         },
         {
           "Name": "Content-Type",
@@ -1505,11 +1505,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"h8ebDIov1SNDwrwiTLvNo+sAFSmJYsqos2nSUcNNWe4=\""
+          "Value": "\"cS6MQPbxlXEYJTyYVfsg9Vbm3Ufl2EP8oAlgD3EFoFc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 12:42:09 GMT"
+          "Value": "Wed, 05 Mar 2025 06:26:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1519,12 +1519,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-h8ebDIov1SNDwrwiTLvNo+sAFSmJYsqos2nSUcNNWe4="
+          "Value": "sha256-cS6MQPbxlXEYJTyYVfsg9Vbm3Ufl2EP8oAlgD3EFoFc="
         }
       ]
     },
     {
-      "Route": "css/newfeed.n0bnoargjb.css",
+      "Route": "css/newfeed.t1vhfmjnny.css",
       "AssetFile": "D:\\.net\\projectintern\\Music-Web-App-C-\\MusicWebApp\\wwwroot\\css\\newfeed.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1534,7 +1534,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9555"
+          "Value": "9551"
         },
         {
           "Name": "Content-Type",
@@ -1542,11 +1542,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"h8ebDIov1SNDwrwiTLvNo+sAFSmJYsqos2nSUcNNWe4=\""
+          "Value": "\"cS6MQPbxlXEYJTyYVfsg9Vbm3Ufl2EP8oAlgD3EFoFc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 12:42:09 GMT"
+          "Value": "Wed, 05 Mar 2025 06:26:28 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1556,7 +1556,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "n0bnoargjb"
+          "Value": "t1vhfmjnny"
         },
         {
           "Name": "label",
@@ -1564,7 +1564,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-h8ebDIov1SNDwrwiTLvNo+sAFSmJYsqos2nSUcNNWe4="
+          "Value": "sha256-cS6MQPbxlXEYJTyYVfsg9Vbm3Ufl2EP8oAlgD3EFoFc="
         }
       ]
     },
@@ -1579,7 +1579,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9862"
+          "Value": "9864"
         },
         {
           "Name": "Content-Type",
@@ -1587,11 +1587,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Qanutl1GKRjx8TpIy/lePs/4GlQKo2nwVkoy0ibNya0=\""
+          "Value": "\"GhwhqDPGlTxxyccUdk4L/jY7lHo9Rbe1ov4eIwXIzmE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 06:22:34 GMT"
+          "Value": "Wed, 05 Mar 2025 06:27:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1601,12 +1601,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Qanutl1GKRjx8TpIy/lePs/4GlQKo2nwVkoy0ibNya0="
+          "Value": "sha256-GhwhqDPGlTxxyccUdk4L/jY7lHo9Rbe1ov4eIwXIzmE="
         }
       ]
     },
     {
-      "Route": "css/profileuser.rdlqkdweun.css",
+      "Route": "css/profileuser.mhy21gm3t2.css",
       "AssetFile": "D:\\.net\\projectintern\\Music-Web-App-C-\\MusicWebApp\\wwwroot\\css\\profileuser.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1616,7 +1616,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9862"
+          "Value": "9864"
         },
         {
           "Name": "Content-Type",
@@ -1624,11 +1624,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Qanutl1GKRjx8TpIy/lePs/4GlQKo2nwVkoy0ibNya0=\""
+          "Value": "\"GhwhqDPGlTxxyccUdk4L/jY7lHo9Rbe1ov4eIwXIzmE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Mar 2025 06:22:34 GMT"
+          "Value": "Wed, 05 Mar 2025 06:27:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1638,7 +1638,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "rdlqkdweun"
+          "Value": "mhy21gm3t2"
         },
         {
           "Name": "label",
@@ -1646,7 +1646,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Qanutl1GKRjx8TpIy/lePs/4GlQKo2nwVkoy0ibNya0="
+          "Value": "sha256-GhwhqDPGlTxxyccUdk4L/jY7lHo9Rbe1ov4eIwXIzmE="
         }
       ]
     },

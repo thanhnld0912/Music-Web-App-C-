@@ -15,26 +15,26 @@
     <StaticWebAssetEndpoint Include="_content/MusicWebApp/css/newfeed.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\newfeed.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-h8ebDIov1SNDwrwiTLvNo\u002BsAFSmJYsqos2nSUcNNWe4="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"9555"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022h8ebDIov1SNDwrwiTLvNo\u002BsAFSmJYsqos2nSUcNNWe4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Mar 2025 12:42:09 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cS6MQPbxlXEYJTyYVfsg9Vbm3Ufl2EP8oAlgD3EFoFc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"9551"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022cS6MQPbxlXEYJTyYVfsg9Vbm3Ufl2EP8oAlgD3EFoFc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 05 Mar 2025 06:26:28 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/MusicWebApp/css/newfeed.n0bnoargjb.css">
+    <StaticWebAssetEndpoint Include="_content/MusicWebApp/css/newfeed.t1vhfmjnny.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\newfeed.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"n0bnoargjb"},{"Name":"integrity","Value":"sha256-h8ebDIov1SNDwrwiTLvNo\u002BsAFSmJYsqos2nSUcNNWe4="},{"Name":"label","Value":"_content/MusicWebApp/css/newfeed.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9555"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022h8ebDIov1SNDwrwiTLvNo\u002BsAFSmJYsqos2nSUcNNWe4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 04 Mar 2025 12:42:09 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t1vhfmjnny"},{"Name":"integrity","Value":"sha256-cS6MQPbxlXEYJTyYVfsg9Vbm3Ufl2EP8oAlgD3EFoFc="},{"Name":"label","Value":"_content/MusicWebApp/css/newfeed.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9551"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022cS6MQPbxlXEYJTyYVfsg9Vbm3Ufl2EP8oAlgD3EFoFc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 05 Mar 2025 06:26:28 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MusicWebApp/css/profileuser.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\profileuser.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Qanutl1GKRjx8TpIy/lePs/4GlQKo2nwVkoy0ibNya0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"9862"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Qanutl1GKRjx8TpIy/lePs/4GlQKo2nwVkoy0ibNya0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 05 Mar 2025 06:22:34 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-GhwhqDPGlTxxyccUdk4L/jY7lHo9Rbe1ov4eIwXIzmE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"9864"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022GhwhqDPGlTxxyccUdk4L/jY7lHo9Rbe1ov4eIwXIzmE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 05 Mar 2025 06:27:04 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/MusicWebApp/css/profileuser.rdlqkdweun.css">
+    <StaticWebAssetEndpoint Include="_content/MusicWebApp/css/profileuser.mhy21gm3t2.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\profileuser.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rdlqkdweun"},{"Name":"integrity","Value":"sha256-Qanutl1GKRjx8TpIy/lePs/4GlQKo2nwVkoy0ibNya0="},{"Name":"label","Value":"_content/MusicWebApp/css/profileuser.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9862"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Qanutl1GKRjx8TpIy/lePs/4GlQKo2nwVkoy0ibNya0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 05 Mar 2025 06:22:34 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mhy21gm3t2"},{"Name":"integrity","Value":"sha256-GhwhqDPGlTxxyccUdk4L/jY7lHo9Rbe1ov4eIwXIzmE="},{"Name":"label","Value":"_content/MusicWebApp/css/profileuser.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9864"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022GhwhqDPGlTxxyccUdk4L/jY7lHo9Rbe1ov4eIwXIzmE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 05 Mar 2025 06:27:04 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MusicWebApp/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
