@@ -1,6 +1,9 @@
 wwwroot\css\login.css
+wwwroot\css\newfeed.css
+wwwroot\css\profileuser.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\img\lgo.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
