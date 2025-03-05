@@ -12,6 +12,18 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wcm0e30yfh"},{"Name":"integrity","Value":"sha256-MKv\u002Bf2x/Bw1rfFc7Y/fN4DHR3U\u002B9vwY3U0MM4Wbm1S8="},{"Name":"label","Value":"_content/MusicWebApp/css/login.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4643"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022MKv\u002Bf2x/Bw1rfFc7Y/fN4DHR3U\u002B9vwY3U0MM4Wbm1S8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 27 Feb 2025 06:05:07 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MusicWebApp/css/newfeed.8ejycmundh.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\newfeed.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8ejycmundh"},{"Name":"integrity","Value":"sha256-sNqy65FJk\u002BFCXN6xm7WNjFC6U51pAtmdd39qIHBoS9o="},{"Name":"label","Value":"_content/MusicWebApp/css/newfeed.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7575"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022sNqy65FJk\u002BFCXN6xm7WNjFC6U51pAtmdd39qIHBoS9o=\u0022"},{"Name":"Last-Modified","Value":"Wed, 05 Mar 2025 06:22:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MusicWebApp/css/newfeed.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\newfeed.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-sNqy65FJk\u002BFCXN6xm7WNjFC6U51pAtmdd39qIHBoS9o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7575"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022sNqy65FJk\u002BFCXN6xm7WNjFC6U51pAtmdd39qIHBoS9o=\u0022"},{"Name":"Last-Modified","Value":"Wed, 05 Mar 2025 06:22:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MusicWebApp/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

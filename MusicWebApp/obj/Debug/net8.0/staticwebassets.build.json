@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "maARu8IdTCDDF8W1Pk8H0HdsJM/9wPwGFmHjtGvyIDo=",
+  "Hash": "xhGzuDIFIZx6UptqkL7FS1XE7hdjRvJNPdeBNEz9lm0=",
   "Source": "MusicWebApp",
   "BasePath": "_content/MusicWebApp",
   "Mode": "Default",
@@ -78,6 +78,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\login.css"
+    },
+    {
+      "Identity": "D:\\FPT\\CN6\\MusicWebApp\\MusicWebApp\\wwwroot\\css\\newfeed.css",
+      "SourceId": "MusicWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\FPT\\CN6\\MusicWebApp\\MusicWebApp\\wwwroot\\",
+      "BasePath": "_content/MusicWebApp",
+      "RelativePath": "css/newfeed#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8ejycmundh",
+      "Integrity": "sNqy65FJk+FCXN6xm7WNjFC6U51pAtmdd39qIHBoS9o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\newfeed.css"
     },
     {
       "Identity": "D:\\FPT\\CN6\\MusicWebApp\\MusicWebApp\\wwwroot\\css\\site.css",
@@ -1420,6 +1441,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-MKv+f2x/Bw1rfFc7Y/fN4DHR3U+9vwY3U0MM4Wbm1S8="
+        }
+      ]
+    },
+    {
+      "Route": "css/newfeed.8ejycmundh.css",
+      "AssetFile": "D:\\FPT\\CN6\\MusicWebApp\\MusicWebApp\\wwwroot\\css\\newfeed.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7575"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sNqy65FJk+FCXN6xm7WNjFC6U51pAtmdd39qIHBoS9o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 06:22:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8ejycmundh"
+        },
+        {
+          "Name": "label",
+          "Value": "css/newfeed.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sNqy65FJk+FCXN6xm7WNjFC6U51pAtmdd39qIHBoS9o="
+        }
+      ]
+    },
+    {
+      "Route": "css/newfeed.css",
+      "AssetFile": "D:\\FPT\\CN6\\MusicWebApp\\MusicWebApp\\wwwroot\\css\\newfeed.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7575"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sNqy65FJk+FCXN6xm7WNjFC6U51pAtmdd39qIHBoS9o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 06:22:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sNqy65FJk+FCXN6xm7WNjFC6U51pAtmdd39qIHBoS9o="
         }
       ]
     },
